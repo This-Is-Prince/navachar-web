@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "NeptuneApp",
+            "package_name": "com.navachar.neptune",
+            "sha256_cert_fingerprints": [
+                "8E:DA:6F:45:A0:C8:3B:21:56:EF:CD:2B:DA:3F:83:4B:F3:B2:1D:72:48:4D:14:D0:E6:9F:0F:5E:1F:74:D2:16"
+            ]
+        }
+    }
+]
